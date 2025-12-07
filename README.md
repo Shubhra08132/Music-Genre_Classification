@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-<h3 align='center'>Classify Song Genres from Audio Data<br>Rock or rap?</h3><hr>
 
-![Forks](https://img.shields.io/github/forks/shukkkur/Classify-Song-Genres-from-Audio-Data.svg)
-![Stars](https://img.shields.io/github/stars/shukkkur/Classify-Song-Genres-from-Audio-Data.svg)
-![Watchers](https://img.shields.io/github/watchers/shukkkur/Classify-Song-Genres-from-Audio-Data.svg)
-![Last Commit](https://img.shields.io/github/last-commit/shukkkur/Classify-Song-Genres-from-Audio-Data.svg) 
-=======
 <h3 align='center'>Classify Song Genres from Audio Data<br>Rock or rap?</h3><hr> 
 >>>>>>> f5de93f31e4c1fd7e3ab58bd384b4be16c9d31d2
 
