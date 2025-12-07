@@ -1,6 +1,5 @@
 
 <h3 align='center'>Classify Song Genres from Audio Data<br>Rock or rap?</h3><hr> 
->>>>>>> f5de93f31e4c1fd7e3ab58bd384b4be16c9d31d2
 
 <!-- <p align='center'>
   <img width=500 height=300 src='https://i.ytimg.com/vi/oPgWYj2smCw/maxresdefault.jpg'>
